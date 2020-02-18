@@ -1,0 +1,84 @@
+DEBUG 2020-02-18 10:28:48,477 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2020-02-18 10:28:48,495 [1    ] Abp.Modules.AbpModuleManager             - Found 17 ABP modules in total.
+DEBUG 2020-02-18 10:28:48,512 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: CustomerOrders.Web.CustomerOrdersWebModule, CustomerOrders.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-02-18 10:28:48,516 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: CustomerOrders.CustomerOrdersDataModule, CustomerOrders.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-02-18 10:28:48,517 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.EntityFramework.AbpZeroEntityFrameworkModule, Abp.Zero.EntityFramework, Version=5.1.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-02-18 10:28:48,518 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.AbpZeroCoreModule, Abp.Zero, Version=5.1.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-02-18 10:28:48,519 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.AbpZeroCommonModule, Abp.Zero.Common, Version=5.1.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-02-18 10:28:48,519 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=5.1.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-02-18 10:28:48,520 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkModule, Abp.EntityFramework, Version=5.1.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-02-18 10:28:48,520 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkCommonModule, Abp.EntityFramework.Common, Version=5.1.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-02-18 10:28:48,520 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: CustomerOrders.CustomerOrdersCoreModule, CustomerOrders.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-02-18 10:28:48,521 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: CustomerOrders.CustomerOrdersApplicationModule, CustomerOrders.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-02-18 10:28:48,521 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AutoMapper.AbpAutoMapperModule, Abp.AutoMapper, Version=5.1.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-02-18 10:28:48,522 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: CustomerOrders.Api.CustomerOrdersWebApiModule, CustomerOrders.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-02-18 10:28:48,522 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.WebApi.AbpWebApiModule, Abp.Web.Api, Version=5.1.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-02-18 10:28:48,522 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebModule, Abp.Web, Version=5.1.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-02-18 10:28:48,523 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebCommonModule, Abp.Web.Common, Version=5.1.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-02-18 10:28:48,523 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.SignalR.AbpWebSignalRModule, Abp.Web.SignalR, Version=5.1.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-02-18 10:28:48,523 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.Mvc.AbpWebMvcModule, Abp.Web.Mvc, Version=5.1.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-02-18 10:28:48,530 [1    ] Abp.Modules.AbpModuleManager             - 17 modules loaded.
+DEBUG 2020-02-18 10:28:49,102 [1    ] o.Configuration.LanguageManagementConfig - Converted Abp (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2020-02-18 10:28:49,103 [1    ] o.Configuration.LanguageManagementConfig - Converted AbpZero (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2020-02-18 10:28:49,103 [1    ] o.Configuration.LanguageManagementConfig - Converted CustomerOrders (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2020-02-18 10:28:49,103 [1    ] o.Configuration.LanguageManagementConfig - Converted AbpWeb (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2020-02-18 10:28:49,798 [1    ] EntityFramework.AbpEntityFrameworkModule - Registering DbContext: CustomerOrders.EntityFramework.CustomerOrdersDbContext, CustomerOrders.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-02-18 10:28:55,042 [1    ] Abp.Localization.LocalizationManager     - Initializing 4 localization sources.
+DEBUG 2020-02-18 10:28:55,170 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2020-02-18 10:28:55,203 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpZero
+DEBUG 2020-02-18 10:28:55,224 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: CustomerOrders
+DEBUG 2020-02-18 10:28:55,238 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpWeb
+DEBUG 2020-02-18 10:28:55,511 [1    ] Abp.BackgroundJobs.BackgroundJobManager  - Start background worker: Castle.Proxies.BackgroundJobManagerProxy
+DEBUG 2020-02-18 10:28:55,608 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Found 11 classes define auto mapping attributes
+DEBUG 2020-02-18 10:28:55,608 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - CustomerOrders.Sessions.Dto.TenantLoginInfoDto
+DEBUG 2020-02-18 10:28:55,618 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - CustomerOrders.Sessions.Dto.UserLoginInfoDto
+DEBUG 2020-02-18 10:28:55,619 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - CustomerOrders.Users.Dto.CreateUserDto
+DEBUG 2020-02-18 10:28:55,619 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - CustomerOrders.Users.Dto.UpdateUserDto
+DEBUG 2020-02-18 10:28:55,619 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - CustomerOrders.Users.Dto.UserDto
+DEBUG 2020-02-18 10:28:55,620 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - CustomerOrders.Roles.Dto.PermissionDto
+DEBUG 2020-02-18 10:28:55,620 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - CustomerOrders.MultiTenancy.Dto.CreateTenantDto
+DEBUG 2020-02-18 10:28:55,620 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - CustomerOrders.MultiTenancy.Dto.EditTenantDto
+DEBUG 2020-02-18 10:28:55,620 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - CustomerOrders.MultiTenancy.Dto.TenantDto
+DEBUG 2020-02-18 10:28:55,620 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - CustomerOrders.Web.Models.Account.TenantChangeViewModel
+DEBUG 2020-02-18 10:28:55,620 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - CustomerOrders.Web.Models.Account.TenantSelectionViewModel+TenantInfo
+DEBUG 2020-02-18 10:29:00,612 [1    ] Abp.Logging.LogHelper                    - Dynamic web api controller is created for type 'CustomerOrders.Sessions.ISessionAppService' with service name 'app/session'.
+DEBUG 2020-02-18 10:29:00,614 [1    ] Abp.Logging.LogHelper                    - Dynamic web api controller is created for type 'CustomerOrders.Users.IUserAppService' with service name 'app/user'.
+DEBUG 2020-02-18 10:29:00,616 [1    ] Abp.Logging.LogHelper                    - Dynamic web api controller is created for type 'CustomerOrders.Roles.IRoleAppService' with service name 'app/role'.
+DEBUG 2020-02-18 10:29:00,619 [1    ] Abp.Logging.LogHelper                    - Dynamic web api controller is created for type 'CustomerOrders.MultiTenancy.ITenantAppService' with service name 'app/tenant'.
+DEBUG 2020-02-18 10:29:00,622 [1    ] Abp.Logging.LogHelper                    - Dynamic web api controller is created for type 'CustomerOrders.Configuration.IConfigurationAppService' with service name 'app/configuration'.
+DEBUG 2020-02-18 10:29:00,630 [1    ] Abp.Logging.LogHelper                    - Dynamic web api controller is created for type 'CustomerOrders.Authorization.Accounts.IAccountAppService' with service name 'app/account'.
+WARN  2020-02-18 10:29:09,553 [6    ] Abp.Logging.LogHelper                    - Abp.Authorization.AbpAuthorizationException: Current user did not login to the application!
+   at Abp.Authorization.AuthorizationHelper.Authorize(IEnumerable`1 authorizeAttributes)
+   at Abp.Authorization.AuthorizationHelper.CheckPermissions(MethodInfo methodInfo, Type type)
+   at Abp.Authorization.AuthorizationHelper.Authorize(MethodInfo methodInfo, Type type)
+   at Abp.Web.Mvc.Authorization.AbpMvcAuthorizeFilter.OnAuthorization(AuthorizationContext filterContext)
+Abp.Authorization.AbpAuthorizationException: Current user did not login to the application!
+   at Abp.Authorization.AuthorizationHelper.Authorize(IEnumerable`1 authorizeAttributes)
+   at Abp.Authorization.AuthorizationHelper.CheckPermissions(MethodInfo methodInfo, Type type)
+   at Abp.Authorization.AuthorizationHelper.Authorize(MethodInfo methodInfo, Type type)
+   at Abp.Web.Mvc.Authorization.AbpMvcAuthorizeFilter.OnAuthorization(AuthorizationContext filterContext)
+WARN  2020-02-18 10:30:18,850 [6    ] ity.AntiForgery.AbpMvcAntiForgeryManager - The provided anti-forgery token was meant for a different claims-based user than the current user.
+WARN  2020-02-18 10:30:18,851 [6    ] rity.AntiForgery.AbpAntiForgeryMvcFilter - Empty or invalid anti forgery header token.
+WARN  2020-02-18 10:30:18,851 [6    ] rity.AntiForgery.AbpAntiForgeryMvcFilter - Requested URI: http://localhost:61814/Account/Login?ReturnUrl=%2F
+DEBUG 2020-02-18 10:30:20,177 [12   ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is connected: {"ConnectionId":"b7df1a3c-8bc5-48fc-9d1b-88464c3dfa50","IpAddress":"192.168.0.110","TenantId":null,"UserId":1,"ConnectTime":"2020-02-18T10:30:20.168557+02:00","Properties":{}}
+DEBUG 2020-02-18 10:30:20,250 [5    ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is registered: b7df1a3c-8bc5-48fc-9d1b-88464c3dfa50
+DEBUG 2020-02-18 10:30:41,804 [13   ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is disconnected: b7df1a3c-8bc5-48fc-9d1b-88464c3dfa50
+DEBUG 2020-02-18 10:30:42,381 [7    ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is connected: {"ConnectionId":"40d895a0-ffd0-4921-a2d8-cf77a498f664","IpAddress":"192.168.0.110","TenantId":null,"UserId":1,"ConnectTime":"2020-02-18T10:30:42.380928+02:00","Properties":{}}
+DEBUG 2020-02-18 10:30:42,412 [5    ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is registered: 40d895a0-ffd0-4921-a2d8-cf77a498f664
+WARN  2020-02-18 10:30:47,606 [6    ] naries.DictionaryBasedLocalizationSource - Can not find 'ConfirmPassword' in localization source 'CustomerOrders'!
+DEBUG 2020-02-18 10:30:48,163 [12   ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is connected: {"ConnectionId":"4d3ac1be-415a-47f8-9d20-85f31078d910","IpAddress":"192.168.0.110","TenantId":null,"UserId":1,"ConnectTime":"2020-02-18T10:30:48.1630344+02:00","Properties":{}}
+DEBUG 2020-02-18 10:30:48,246 [8    ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is registered: 4d3ac1be-415a-47f8-9d20-85f31078d910
+DEBUG 2020-02-18 10:31:05,405 [13   ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is connected: {"ConnectionId":"ffd3ba7f-e103-4edb-8869-70648a452ddf","IpAddress":"192.168.0.110","TenantId":null,"UserId":1,"ConnectTime":"2020-02-18T10:31:05.4059552+02:00","Properties":{}}
+DEBUG 2020-02-18 10:31:05,438 [7    ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is registered: ffd3ba7f-e103-4edb-8869-70648a452ddf
+DEBUG 2020-02-18 10:31:20,020 [7    ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is disconnected: 40d895a0-ffd0-4921-a2d8-cf77a498f664
+DEBUG 2020-02-18 10:31:35,020 [7    ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is disconnected: 4d3ac1be-415a-47f8-9d20-85f31078d910
+DEBUG 2020-02-18 10:31:38,024 [12   ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is connected: {"ConnectionId":"ed67dda3-c2d6-4e33-912d-c905d856cf4a","IpAddress":"192.168.0.110","TenantId":null,"UserId":1,"ConnectTime":"2020-02-18T10:31:38.0247491+02:00","Properties":{}}
+DEBUG 2020-02-18 10:31:38,067 [15   ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is registered: ed67dda3-c2d6-4e33-912d-c905d856cf4a
+DEBUG 2020-02-18 10:31:56,490 [5    ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is disconnected: ed67dda3-c2d6-4e33-912d-c905d856cf4a
+DEBUG 2020-02-18 10:32:01,921 [12   ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is connected: {"ConnectionId":"f9fdca50-21b5-486d-936a-04e415112d58","IpAddress":"192.168.0.110","TenantId":null,"UserId":1,"ConnectTime":"2020-02-18T10:32:01.9213342+02:00","Properties":{}}
+DEBUG 2020-02-18 10:32:01,950 [13   ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is registered: f9fdca50-21b5-486d-936a-04e415112d58
+DEBUG 2020-02-18 10:32:10,055 [7    ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is disconnected: ffd3ba7f-e103-4edb-8869-70648a452ddf
+DEBUG 2020-02-18 10:32:16,576 [6    ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is connected: {"ConnectionId":"b9b50b31-a745-4a7b-8962-e266c9d35547","IpAddress":"192.168.0.110","TenantId":null,"UserId":1,"ConnectTime":"2020-02-18T10:32:16.5769312+02:00","Properties":{}}
+DEBUG 2020-02-18 10:32:16,613 [5    ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is registered: b9b50b31-a745-4a7b-8962-e266c9d35547
+DEBUG 2020-02-18 10:32:45,098 [7    ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is disconnected: f9fdca50-21b5-486d-936a-04e415112d58
+DEBUG 2020-02-18 10:32:55,114 [7    ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is disconnected: b9b50b31-a745-4a7b-8962-e266c9d35547
